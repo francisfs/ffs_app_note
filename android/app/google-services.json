@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918639805051",
+    "project_id": "noteapp-cec27",
+    "storage_bucket": "noteapp-cec27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918639805051:android:8a144c6408b8425cd6d8de",
+        "android_client_info": {
+          "package_name": "com.example.ffs_app_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918639805051-99uedgria9esttp91cv14j6iqakb7dnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2pPBLUEYfk5wKlDS0X77aaKKFGVJnsD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918639805051-99uedgria9esttp91cv14j6iqakb7dnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
